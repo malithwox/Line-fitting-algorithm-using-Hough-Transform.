@@ -1,4 +1,4 @@
-# Line fitting algorithm using Hough Transform.Hough_Transform and detect the longest line in a given image
+# Line fitting algorithm using Hough Transform and detect the longest line in a given image
 
 Implement line fitting algorithm using Hough Transform. Use your implementation to detect the longest line in a given image
 
